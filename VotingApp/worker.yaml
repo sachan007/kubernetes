@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: worker
-      image: kodekloud/examplevotingapp_worker
+      image: kodekloud/examplevotingapp_worker:v1
